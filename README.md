@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrentConley
-- 👀 I’m interested in NanoTech, Compsci, and Astronautics.
-- 🌱 I’m currently learning C++, linear algebra, thermodynamics, and photovoltaics. 
+- 👀 I’m interested in Nano Tech, CS, and Astronautics.
+- 🌱 I’m currently learning Rust, Solidity, psychology, and linear algebra. 
 - 📫 How to reach me trentconley@protonmail.com
 
 <!---
