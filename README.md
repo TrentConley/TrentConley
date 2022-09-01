@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrentConley
 - 👀 I’m interested in Nano Tech, CS, and Astronautics.
-- 🌱 I’m currently learning Rust, Solidity, psychology, and linear algebra. 
+- 🌱 I’m currently learning Rust, Solidity, and Javascript. 
 - 📫 How to reach me trentconley@protonmail.com
 
 <!---
