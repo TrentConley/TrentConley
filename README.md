@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrentConley
-- 👀 I’m interested in Nano Tech, CS, and Astronautics.
-- 🌱 I’m currently learning Rust, Solidity, and Javascript. 
+- 👀 I’m interested in AI/ML, Blockchain, Aerospace, and Mathematics.
+- 🌱 I’m currently learning Rust, C++ and NodeJS. 
 - 📫 How to reach me trent.conley@gatech.edu
 
 <!---
