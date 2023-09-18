@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrentConley
 - 👀 I’m interested in AI/ML, Blockchain, Aerospace, and Mathematics.
-- 🌱 I’m currently learning Rust, C++ and NodeJS. 
+- 🌱 I’m currently building a gaze-controlled drone. 
 - 📫 How to reach me trent.conley@gatech.edu
 
 <!---
