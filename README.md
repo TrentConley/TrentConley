@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrentConley
-- 👀 I’m interested in AI/ML, Blockchain, Aerospace, and Mathematics.
-- 🌱 I’m currently interning at Mach Industries. 
-- 📫 How to reach me trent.conley@gatech.edu
+- 👀 I’m interested in AI, Computer Vision, Aerospace, and Mathematics.
+- 🌱 I’m an incoming intern at SpaceX
+- 📫 How to reach me tconley7@gatech.edu
 
 <!---
 TrentConley/TrentConley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
