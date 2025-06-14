@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrentConley
 - 👀 I’m interested in AI, Computer Vision, Aerospace, and Mathematics.
-- 🌱 I’m an incoming intern at SpaceX
+- 🌱 I write software at SpaceX
 - 📫 How to reach me tconley7@gatech.edu
 
 <!---
